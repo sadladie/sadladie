@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ilyuza Nabiullina
-- 👀 I’m interested in Frontend development 
-- 🌱 I’m currently learning Java Script 
-- 📫 How to reach me Instagram: @sadladiee 
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
+- 📫 How to reach me Telegram: @sadladiee 
 
 <!---
 sadladie/sadladie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
