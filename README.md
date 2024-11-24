@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ilyuza Nabiullina
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Cybersecurity 
+- 🌱 I’m currently learning Linux & Python
 <!---- 📫 How to reach me Telegram: @sadladiee --->
 
 <!---
