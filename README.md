@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Ilyuza Nabiullina
-- 👀 I’m interested in Cybersecurity 
-- 🌱 I’m currently learning Linux & Python
-<!---- 📫 How to reach me Telegram: @sadladiee --->
+# Portfolio
 
-<!---
-sadladie/sadladie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About me :wave:
+
+Hi, my name is Ilyuza. I’m a junior QA engineer. I’m glad you are here. It means, you are curious about the level of my skills.
+
+📫 How to reach me Telegram: @sadladiee 
