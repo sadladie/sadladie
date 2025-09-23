@@ -9,7 +9,7 @@
 I’m a junior QA engineer. I’m glad you are here. It means, you are curious about the level of my skills.
 
 ### 📫 How to reach me 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](@sadladiee)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/sadladiee)
 
 Email: nvbiullinv@gmail.com
 
