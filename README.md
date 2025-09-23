@@ -22,7 +22,7 @@ Eng: [CV]()
 - Test Documentation
   -  [Checklists]()
   -  [Test cases]()
-  -  [Bug report]()
+  -  [Bug report](https://docs.google.com/document/d/1CizEzdr3cz-A8I22axxhXcVYW3lB_8O0C3TS1fJ-zfo/edit?tab=t.0)
 
 ## Blender 
 
