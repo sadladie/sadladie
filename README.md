@@ -9,13 +9,14 @@
 I’m a junior QA engineer. I’m glad you are here. It means, you are curious about the level of my skills.
 
 ### 📫 How to reach me 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/sadladiee)
+TG: [@sadladiee](https://t.me/sadladiee)
 
 Email: nvbiullinv@gmail.com
 
 ## My CV 
 
-CV: [Link](https://docs.google.com/document/d/1_Z1iSxTqcShc2n-RASFmaVSi9cD2urQ7Qq6T2Qktgu0/edit?pli=1&tab=t.0#heading=h.2ci3rnivy5z4)
+Rus: [CV](https://docs.google.com/document/d/1_Z1iSxTqcShc2n-RASFmaVSi9cD2urQ7Qq6T2Qktgu0/edit?pli=1&tab=t.0#heading=h.2ci3rnivy5z4)
+Eng: [CV]()
 
 ## Portfolio 
 - Test Documentation
