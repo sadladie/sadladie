@@ -22,8 +22,6 @@ Eng: [CV](https://docs.google.com/document/d/12WDu1aeKCzS8TumrpwqGvhSS5S4N_3sZP0
 ## Portfolio 
 - Test Documentation
   -  [Bug report](https://docs.google.com/document/d/1CizEzdr3cz-A8I22axxhXcVYW3lB_8O0C3TS1fJ-zfo/edit?tab=t.0)
-  -  [Checklists](https://docs.google.com/document/d/1VHkxuYetVjYgbMRNUeX8kLAsyLaDC71hpFS3obWylfo/edit?tab=t.0) (in progress)
-  -  [Test cases](https://docs.google.com/document/d/1VZfuQ2dLXIf_hZlfnHTgfuyPCiCdvjeGV8gyDNp-0Qw/edit?tab=t.0) (in progress)
 
 ## Blender 
 
