@@ -6,7 +6,7 @@
   
 </div>
 
-I’m a junior QA engineer. I’m glad you are here. It means, you are curious about the level of my skills.
+I’m a junior QA manual tester. I’m glad you are here. It means, you are curious about the level of my skills.
 
 ### 📫 How to reach me 
 TG: [@sadladiee](https://t.me/sadladiee)
