@@ -11,15 +11,13 @@ I’m a junior QA manual tester. I’m glad you are here. It means, you are curi
 ### 📫 How to reach me 
 TG: [@sadladiee](https://t.me/sadladiee)
 
-Email: nvbiullinv@gmail.com
-
 ## My CV 
 
 [CV](https://docs.google.com/document/d/1_Z1iSxTqcShc2n-RASFmaVSi9cD2urQ7Qq6T2Qktgu0/edit?pli=1&tab=t.0#heading=h.2ci3rnivy5z4)
 
 
 ## Portfolio 
-- [Test Documentation](https://docs.google.com/document/d/1FOxl8VP6xXKwv8bGm2Of2660_um53vmb7SQbPd31OOs/edit?tab=t.0#heading=h.gjdgxs)
+- [Tilda]([https://docs.google.com/document/d/1FOxl8VP6xXKwv8bGm2Of2660_um53vmb7SQbPd31OOs/edit?tab=t.0#heading=h.gjdgxs](https://cvnabiullina.tilda.ws/))
 
 ## Blender 
 
