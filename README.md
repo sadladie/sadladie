@@ -17,7 +17,7 @@ TG: [@sadladiee](https://t.me/sadladiee)
 
 
 ## Portfolio 
-- [Tilda](https://cvnabiullina.tilda.ws/)
+Everything is here: [Tilda](https://cvnabiullina.tilda.ws/)
 
 ## Blender 
 
