@@ -17,7 +17,7 @@ TG: [@sadladiee](https://t.me/sadladiee)
 
 
 ## Portfolio 
-- [Tilda]([https://docs.google.com/document/d/1FOxl8VP6xXKwv8bGm2Of2660_um53vmb7SQbPd31OOs/edit?tab=t.0#heading=h.gjdgxs](https://cvnabiullina.tilda.ws/))
+- [Tilda]([https://docs.google.com/document/d/1FOxl8VP6xXKwv8bGm2Of2660_um53vmb7SQbPd31OOs/edit?tab=t.0#heading=h.gjdgxs](https://cvnabiullina.tilda.ws/)
 
 ## Blender 
 
